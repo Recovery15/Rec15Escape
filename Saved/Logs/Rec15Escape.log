@@ -1467,3 +1467,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.01-18.55.08:093][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
 [2019.10.01-18.55.08:247][337]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/FirstPersonExampleMapD7EB0FBD4DF98EC07EAB27A6122BB9EA.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.10.01-18.55.08:275][337]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.209
+[2019.10.01-18.57.46:863][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-18.57.46:975][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.10.01-18.57.48:114][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
