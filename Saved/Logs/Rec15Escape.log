@@ -1460,3 +1460,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.01-18.49.28:271][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.10.01-18.49.28:274][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
 [2019.10.01-18.49.28:334][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.01-18.55.06:157][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.10.01-18.55.08:006][337]LogSlate: Window 'Save Content' being destroyed
+[2019.10.01-18.55.08:017][337]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.01-18.55.08:062][337]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/BP_Door_02485209164B0638477D008F8CD1836CC3.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/FirstPersonBP/Blieprints/BP_Door_02.uasset'
+[2019.10.01-18.55.08:093][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.01-18.55.08:247][337]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/FirstPersonExampleMapD7EB0FBD4DF98EC07EAB27A6122BB9EA.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.01-18.55.08:275][337]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.209
