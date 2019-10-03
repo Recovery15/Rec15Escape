@@ -1242,3 +1242,799 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.03-18.49.02:111][ 11]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.346
 [2019.10.03-18.49.02:114][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widget/Score" FILE="../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/Widget/Score.uasset" SILENT=true
 [2019.10.03-18.49.02:128][ 11]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/Score44BCFC804CA18F3B7367E883DC9D6179.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/Widget/Score.uasset'
+[2019.10.03-18.52.20:358][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-18.52.31:576][943]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-18.52.33:145][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-18.52.37:759][600]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.03-18.52.40:960][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-18.52.41:257][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.10.03-18.52.42:492][ 11]LogSlate: Window 'Save Content' being destroyed
+[2019.10.03-18.52.42:500][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-18.52.42:547][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.10.03-18.52.42:809][ 11]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/FirstPersonExampleMap8D82016A4C0FB8412460BB9A7DAF8F26.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.03-18.52.42:833][ 11]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.327
+[2019.10.03-18.52.46:081][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-18.52.50:025][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.10.03-18.52.58:314][474]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-18.53.07:706][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-18.53.12:791][175]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-18.53.19:759][998]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.03-18.55.27:242][270]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_3)
+[2019.10.03-18.55.27:625][313]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2019.10.03-18.55.27:837][336]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2019.10.03-18.55.31:653][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-18.55.36:881][382]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_02)
+[2019.10.03-18.55.37:838][494]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_02)
+[2019.10.03-18.55.39:407][681]LogEditorViewport: Clicking on Actor (LMB): BP_Door_02_C (BP_Door_02)
+[2019.10.03-18.55.39:752][721]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2019.10.03-18.55.39:966][744]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2019.10.03-18.55.43:039][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-18.55.45:797][388]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.03-18.56.04:014][571]LogHttp: Warning: 000001D8110D4540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B107ACC11-4314-E630-80B7-7586C4DD2185%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=bc95c7ab4c9c406bfb35558da5ff1afd%7C%7Ca8138293-721e-457a-8e91-5ec29513f4e2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.03-18.56.04:015][571]LogHttp: Warning: 000001D8110D4540: request failed, libcurl error: 0 (No error)
+[2019.10.03-18.56.04:015][571]LogHttp: Warning: 000001D8110D4540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1d7571fbf70 [can pipeline])
+[2019.10.03-18.56.04:015][571]LogHttp: Warning: 000001D8110D4540: libcurl info message cache 1 (Re-using existing connection! (#33) with host datarouter.ol.epicgames.com)
+[2019.10.03-18.56.04:015][571]LogHttp: Warning: 000001D8110D4540: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.204.243.49) port 443 (#33))
+[2019.10.03-18.56.04:015][571]LogHttp: Warning: 000001D8110D4540: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.03-18.56.04:015][571]LogHttp: Warning: 000001D8110D4540: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.03-18.56.04:015][571]LogHttp: Warning: 000001D8110D4540: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.03-18.56.04:015][571]LogHttp: Warning: 000001D8110D4540: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.03-18.56.04:015][571]LogHttp: Warning: 000001D8110D4540: libcurl info message cache 7 (Closing connection 33)
+[2019.10.03-18.56.04:015][571]LogHttp: Warning: 000001D8110D4540: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.03-18.56.04:023][572]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B107ACC11-4314-E630-80B7-7586C4DD2185%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=bc95c7ab4c9c406bfb35558da5ff1afd%7C%7Ca8138293-721e-457a-8e91-5ec29513f4e2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.03-19.01.26:150][131]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.01.29:309][502]Cmd: ACTOR HIDE SELECTED
+[2019.10.03-19.01.33:904][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.01.37:244][432]Cmd: ACTOR HIDE SELECTED
+[2019.10.03-19.01.39:566][706]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush11)
+[2019.10.03-19.01.39:590][706]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.01.45:175][369]Cmd: ACTOR HIDE SELECTED
+[2019.10.03-19.01.48:499][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.01.48:575][775]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.03-19.01.48:609][775]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.01.48:609][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.03-19.01.48:609][775]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 11:01:48 AM)
+[2019.10.03-19.01.48:609][775]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.01.48:624][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015187s)
+[2019.10.03-19.01.48:625][775]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.03-19.01.48:625][775]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2019.10.03-19.01.48:625][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016178s)
+[2019.10.03-19.01.48:672][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.10.03-19.01.48:695][775]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.03-19.01.48:705][775]LogInit: FAudioDevice initialized.
+[2019.10.03-19.01.48:714][775]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.03-19.01.48:716][775]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-15.01.48
+[2019.10.03-19.01.48:717][775]LogWorld: Bringing up level for play took: 0.001335
+[2019.10.03-19.01.48:717][775]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.10.03-19.01.48:718][775]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.03-19.01.48:719][775]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.001
+[2019.10.03-19.01.48:719][775]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.01.52:151][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.01.52:152][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.01.52:152][183]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.01.52:152][183]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-19.01.52:166][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.03-19.01.52:166][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.01.52:210][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.01.52:214][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.10.03-19.01.52:266][185]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.10.03-19.02.04:467][627]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.02.09:734][253]Cmd: ACTOR UNHIDE ALL
+[2019.10.03-19.02.10:849][382]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.02.16:822][ 90]Cmd: ACTOR HIDE SELECTED
+[2019.10.03-19.02.19:072][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.02.19:183][366]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.10.03-19.02.19:442][366]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/FirstPersonExampleMap5AF6BEBC4A5BB91FE6E28F8ADE5A6FF8.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.03-19.02.20:475][366]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/FirstPersonExampleMap_BuiltDataCE70EB8C4DD0ECC5A257F7BE3D5894A9.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.03-19.02.20:739][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.02.20:805][399]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.03-19.02.20:824][399]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.02.20:824][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.03-19.02.20:824][399]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 11:02:20 AM)
+[2019.10.03-19.02.20:824][399]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.02.20:838][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014439s)
+[2019.10.03-19.02.20:839][399]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.03-19.02.20:839][399]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2019.10.03-19.02.20:839][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015450s)
+[2019.10.03-19.02.20:882][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.10.03-19.02.20:904][399]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.03-19.02.20:913][399]LogInit: FAudioDevice initialized.
+[2019.10.03-19.02.20:920][399]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.03-19.02.20:922][399]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-15.02.20
+[2019.10.03-19.02.20:922][399]LogWorld: Bringing up level for play took: 0.001594
+[2019.10.03-19.02.20:922][399]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.10.03-19.02.20:924][399]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.03-19.02.20:925][399]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.207
+[2019.10.03-19.02.20:925][399]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.02.23:930][756]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.02.23:931][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.02.23:931][756]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.02.23:931][756]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-19.02.23:943][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.03-19.02.23:943][756]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.02.23:985][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.02.23:990][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.10.03-19.02.24:039][758]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.10.03-19.02.24:114][767]Cmd: SELECT NONE
+[2019.10.03-19.02.38:314][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.02.50:075][858]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.03-19.02.50:097][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.02.50:097][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.03-19.02.50:097][858]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 11:02:50 AM)
+[2019.10.03-19.02.50:097][858]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.02.50:113][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016244s)
+[2019.10.03-19.02.50:114][858]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.03-19.02.50:115][858]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2019.10.03-19.02.50:115][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017919s)
+[2019.10.03-19.02.50:159][858]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.10.03-19.02.50:182][858]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.03-19.02.50:191][858]LogInit: FAudioDevice initialized.
+[2019.10.03-19.02.50:198][858]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.03-19.02.50:200][858]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-15.02.50
+[2019.10.03-19.02.50:200][858]LogWorld: Bringing up level for play took: 0.001562
+[2019.10.03-19.02.50:200][858]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.10.03-19.02.50:202][858]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.03-19.02.50:203][858]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.514
+[2019.10.03-19.02.50:207][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.02.52:065][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.02.52:066][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.02.52:066][ 76]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.02.52:066][ 76]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-19.02.52:081][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.03-19.02.52:081][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.02.52:125][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.02.52:129][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.10.03-19.02.52:182][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.10.03-19.05.38:906][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.05.42:657][280]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.03-19.05.43:441][367]Cmd: EDCALLBACK SURFPROPS
+[2019.10.03-19.05.46:868][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.05.50:071][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.05.55:536][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.05.57:970][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.06.00:984][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.06.09:407][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.06.20:269][504]LogAssetEditorManager: Opening Asset editor for Material /Game/FirstPersonBP/Blueprints/seethrough.seethrough
+[2019.10.03-19.06.20:271][504]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.06.20:660][504]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.06.20:678][504]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.03-19.06.20:678][504]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.03-19.06.20:678][504]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.03-19.06.20:678][504]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.03-19.06.21:171][526]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2019.10.03-19.06.21:184][527]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.10.03-19.06.21:210][529]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.03-19.06.21:316][537]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.10.03-19.06.21:499][551]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.10.03-19.06.21:510][552]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.10.03-19.06.21:510][552]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.10.03-19.06.21:510][552]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2019.10.03-19.06.21:717][568]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.10.03-19.06.21:828][576]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.10.03-19.06.21:998][589]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.10.03-19.06.22:042][592]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.10.03-19.06.22:213][606]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.03-19.06.22:304][613]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.10.03-19.06.22:330][615]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.03-19.06.22:521][630]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.03-19.06.22:645][640]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.03-19.06.22:971][667]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.10.03-19.06.22:972][667]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.10.03-19.06.22:972][667]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.10.03-19.06.22:972][667]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.06.51:282][549]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.06.53:083][745]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.06.54:185][862]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.07.00:513][557]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.07.00:525][557]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.03-19.07.00:525][557]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.03-19.07.00:525][557]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.03-19.07.00:525][557]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.03-19.07.00:899][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.10.03-19.07.00:951][594]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.03-19.07.01:003][598]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.03-19.07.01:124][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.10.03-19.07.01:196][614]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.10.03-19.07.01:208][615]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.10.03-19.07.01:221][616]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.10.03-19.07.01:232][617]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2019.10.03-19.07.01:407][631]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.10.03-19.07.01:517][639]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.10.03-19.07.01:680][652]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.10.03-19.07.01:706][654]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.10.03-19.07.01:899][669]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.03-19.07.01:965][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.10.03-19.07.02:041][680]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.03-19.07.02:213][693]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.03-19.07.02:287][699]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.03-19.07.02:658][733]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.10.03-19.07.02:658][733]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.10.03-19.07.02:658][733]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.10.03-19.07.02:658][733]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.07.02:821][751]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.07.02:874][751]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.07.02:894][751]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.07.02:929][752]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.10.03-19.07.02:930][752]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.10.03-19.07.02:930][752]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.10.03-19.07.02:930][752]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.10.03-19.07.03:076][764]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2019.10.03-19.07.03:131][769]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2019.10.03-19.07.03:142][770]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2019.10.03-19.07.03:188][774]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2019.10.03-19.07.03:267][780]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2019.10.03-19.07.03:280][781]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2019.10.03-19.07.03:396][791]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2019.10.03-19.07.03:407][792]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2019.10.03-19.07.03:407][792]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2019.10.03-19.07.03:493][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2019.10.03-19.07.03:507][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2019.10.03-19.07.03:664][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2019.10.03-19.07.03:840][825]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.10.03-19.07.03:947][833]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.03-19.07.04:022][839]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2019.10.03-19.07.04:216][853]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.10.03-19.07.04:243][855]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.03-19.07.04:414][868]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.10.03-19.07.04:578][880]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.10.03-19.07.04:656][886]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.10.03-19.07.04:709][890]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.10.03-19.07.04:831][899]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.10.03-19.07.05:008][912]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.10.03-19.07.05:179][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.03-19.07.05:291][934]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.10.03-19.07.05:329][937]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.03-19.07.05:529][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.10.03-19.07.05:680][963]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.03-19.07.05:787][971]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.03-19.07.05:869][978]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.10.03-19.07.06:059][993]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.10.03-19.07.06:229][  6]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.10.03-19.07.06:302][ 12]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.03-19.07.06:328][ 14]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.03-19.07.06:571][ 33]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.03-19.07.06:786][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.07.06:894][ 61]MaterialEditorStats: Base pass shader: 72 instructions
+[2019.10.03-19.07.06:894][ 61]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 93 instructions
+[2019.10.03-19.07.06:894][ 61]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.10.03-19.07.06:894][ 61]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.07.40:143][ 18]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.07.40:162][ 18]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.03-19.07.40:199][ 19]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.10.03-19.07.40:199][ 19]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.10.03-19.07.40:199][ 19]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.10.03-19.07.40:199][ 19]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.10.03-19.07.40:462][ 40]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.10.03-19.07.40:516][ 44]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2019.10.03-19.07.40:556][ 47]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2019.10.03-19.07.40:634][ 53]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2019.10.03-19.07.40:689][ 57]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2019.10.03-19.07.40:689][ 57]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2019.10.03-19.07.40:741][ 61]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2019.10.03-19.07.40:818][ 67]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2019.10.03-19.07.40:875][ 72]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2019.10.03-19.07.40:875][ 72]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2019.10.03-19.07.40:910][ 75]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2019.10.03-19.07.41:018][ 84]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2019.10.03-19.07.41:340][108]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2019.10.03-19.07.41:351][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2019.10.03-19.07.41:422][115]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2019.10.03-19.07.41:617][129]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.10.03-19.07.41:732][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.10.03-19.07.41:795][143]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.10.03-19.07.41:971][157]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.10.03-19.07.42:145][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2019.10.03-19.07.42:145][170]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.10.03-19.07.42:241][178]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.10.03-19.07.42:483][196]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.10.03-19.07.42:631][207]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.03-19.07.42:731][215]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.10.03-19.07.42:788][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.10.03-19.07.42:967][234]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.10.03-19.07.43:177][247]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.10.03-19.07.43:195][248]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.10.03-19.07.43:289][253]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.03-19.07.43:477][263]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.10.03-19.07.43:608][270]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.10.03-19.07.43:658][273]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.03-19.07.43:712][276]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.10.03-19.07.43:916][287]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.03-19.07.44:184][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.10.03-19.07.44:184][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.03-19.07.44:184][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.03-19.07.44:213][304]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.03-19.07.44:530][304]MaterialEditorStats: Base pass shader: 72 instructions
+[2019.10.03-19.07.44:530][304]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 93 instructions
+[2019.10.03-19.07.44:530][304]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.10.03-19.07.44:530][304]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.07.53:261][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.07.58:967][624]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.07.58:990][624]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.10.03-19.07.58:990][624]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.10.03-19.07.58:990][624]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.10.03-19.07.58:990][624]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.10.03-19.07.58:990][624]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.03-19.07.59:127][632]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.10.03-19.07.59:155][634]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2019.10.03-19.07.59:167][635]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2019.10.03-19.07.59:294][645]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.10.03-19.07.59:307][646]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2019.10.03-19.07.59:376][652]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2019.10.03-19.07.59:389][653]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2019.10.03-19.07.59:428][656]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2019.10.03-19.07.59:501][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2019.10.03-19.07.59:513][662]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2019.10.03-19.07.59:581][667]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2019.10.03-19.07.59:666][674]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2019.10.03-19.07.59:903][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2019.10.03-19.07.59:963][695]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2019.10.03-19.08.00:089][705]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2019.10.03-19.08.00:348][724]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.10.03-19.08.00:361][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.10.03-19.08.00:459][733]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.03-19.08.00:699][749]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.10.03-19.08.00:790][756]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.10.03-19.08.00:790][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.10.03-19.08.00:842][760]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.10.03-19.08.01:146][781]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.08.01:252][789]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.03-19.08.01:335][795]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.10.03-19.08.01:419][801]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.10.03-19.08.01:599][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.10.03-19.08.01:781][827]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.10.03-19.08.01:934][839]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.10.03-19.08.01:947][840]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.03-19.08.02:111][852]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.10.03-19.08.02:293][865]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.10.03-19.08.02:380][871]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.03-19.08.02:462][878]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.10.03-19.08.02:616][891]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.03-19.08.02:797][905]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.10.03-19.08.02:846][909]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.03-19.08.02:859][910]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.03-19.08.02:947][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.03-19.08.02:979][918]MaterialEditorStats: Base pass shader: 72 instructions
+[2019.10.03-19.08.02:979][918]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 93 instructions
+[2019.10.03-19.08.02:979][918]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.10.03-19.08.02:979][918]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.08.03:846][  4]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.08.06:109][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.08.11:474][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.08.14:430][114]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.08.14:451][114]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.10.03-19.08.14:451][114]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.10.03-19.08.14:451][114]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.10.03-19.08.14:451][114]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.10.03-19.08.14:604][125]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2019.10.03-19.08.14:605][125]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2019.10.03-19.08.14:639][128]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2019.10.03-19.08.14:715][134]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2019.10.03-19.08.14:771][138]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2019.10.03-19.08.14:821][142]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2019.10.03-19.08.14:835][143]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2019.10.03-19.08.14:927][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2019.10.03-19.08.14:927][150]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2019.10.03-19.08.14:988][155]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2019.10.03-19.08.15:066][161]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2019.10.03-19.08.15:132][166]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.10.03-19.08.15:332][180]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.10.03-19.08.15:424][187]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.10.03-19.08.15:502][193]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.10.03-19.08.15:689][206]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.08.15:710][206]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.08.15:724][206]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.08.15:737][206]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.10.03-19.08.15:789][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.10.03-19.08.15:844][212]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.08.15:881][215]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.03-19.08.16:000][224]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.03-19.08.16:025][226]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.10.03-19.08.16:093][232]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.10.03-19.08.16:166][237]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.10.03-19.08.16:219][241]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.10.03-19.08.16:232][242]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.03-19.08.16:243][243]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.10.03-19.08.16:347][250]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.10.03-19.08.16:359][251]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.10.03-19.08.16:359][251]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.10.03-19.08.16:436][257]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.10.03-19.08.16:582][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.10.03-19.08.16:700][274]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.03-19.08.16:727][276]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.03-19.08.16:940][292]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.03-19.08.17:232][315]MaterialEditorStats: Base pass shader without light map: 47 instructions
+[2019.10.03-19.08.17:232][315]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.10.03-19.08.17:232][315]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.08.19:131][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.08.53:521][  5]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.03-19.09.00:377][670]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.03-19.09.09:443][568]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.03-19.09.09:459][569]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.10.03-19.09.09:459][569]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.03-19.09.09:459][569]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.03-19.09.09:459][569]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.03-19.09.34:680][481]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.03-19.09.46:926][751]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.09.46:957][752]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.09.46:957][752]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.10.03-19.09.46:957][752]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.09.46:957][752]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.03-19.09.47:223][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.10.03-19.09.47:302][782]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.10.03-19.09.47:341][785]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.10.03-19.09.47:403][790]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.03-19.09.47:453][794]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.10.03-19.09.47:466][795]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2019.10.03-19.09.47:565][803]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.10.03-19.09.47:578][804]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.10.03-19.09.47:644][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.10.03-19.09.47:701][815]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.10.03-19.09.47:735][818]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.10.03-19.09.47:781][822]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.10.03-19.09.47:985][837]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.03-19.09.48:060][843]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.03-19.09.48:185][853]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.03-19.09.48:493][879]MaterialEditorStats: Base pass shader without light map: 47 instructions
+[2019.10.03-19.09.48:493][879]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.10.03-19.09.48:493][879]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.09.52:861][329]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.09.52:872][329]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.10.03-19.09.52:906][330]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.09.52:906][330]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.10.03-19.09.52:906][330]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.09.52:906][330]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.03-19.09.53:018][338]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.09.53:031][339]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.10.03-19.09.53:043][340]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.10.03-19.09.53:152][349]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.03-19.09.53:181][351]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.10.03-19.09.53:257][357]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.10.03-19.09.53:273][358]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.10.03-19.09.53:313][361]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.10.03-19.09.53:365][365]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.10.03-19.09.53:393][367]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.03-19.09.53:464][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.10.03-19.09.53:515][376]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.10.03-19.09.53:755][393]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.10.03-19.09.53:755][393]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.10.03-19.09.53:868][402]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.10.03-19.09.54:085][419]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.03-19.09.54:178][426]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.10.03-19.09.54:217][429]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.03-19.09.54:255][432]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.03-19.09.54:272][433]MaterialEditorStats: Base pass shader without light map: 47 instructions
+[2019.10.03-19.09.54:272][433]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.10.03-19.09.54:272][433]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.11.01:782][ 33]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.11.01:798][ 33]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.11.01:798][ 33]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.10.03-19.11.01:798][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.11.01:798][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.03-19.11.01:798][ 33]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.10.03-19.11.01:808][ 33]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.11.02:084][ 56]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.10.03-19.11.02:142][ 60]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.10.03-19.11.02:180][ 63]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.10.03-19.11.02:251][ 69]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.03-19.11.02:496][ 87]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.11.02:496][ 87]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.10.03-19.11.02:508][ 88]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.11.02:521][ 89]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.03-19.11.02:637][ 98]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.10.03-19.11.02:666][100]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.10.03-19.11.02:692][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.10.03-19.11.02:782][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.10.03-19.11.02:827][112]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.10.03-19.11.02:872][115]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.03-19.11.02:911][118]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.10.03-19.11.02:952][121]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.10.03-19.11.02:990][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.03-19.11.03:033][127]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.10.03-19.11.03:083][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.10.03-19.11.03:147][136]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.10.03-19.11.03:352][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.03-19.11.03:389][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.03-19.11.03:515][162]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.03-19.11.03:569][166]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.11.03:725][176]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.10.03-19.11.03:794][181]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.10.03-19.11.03:821][183]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.11.03:848][185]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.03-19.11.03:882][188]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.10.03-19.11.03:962][194]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.10.03-19.11.03:990][196]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.10.03-19.11.04:045][200]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.10.03-19.11.04:109][205]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.10.03-19.11.04:122][206]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2019.10.03-19.11.04:219][213]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.10.03-19.11.04:233][214]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.10.03-19.11.04:285][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.10.03-19.11.04:334][222]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.10.03-19.11.04:345][223]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.10.03-19.11.04:432][230]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.10.03-19.11.04:630][244]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.10.03-19.11.04:698][249]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.03-19.11.04:794][256]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.03-19.11.05:119][281]MaterialEditorStats: Base pass shader without light map: 47 instructions
+[2019.10.03-19.11.05:119][281]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.10.03-19.11.05:119][281]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.11.08:282][600]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.11.08:297][600]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.11.08:297][600]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.10.03-19.11.08:297][600]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.11.08:297][600]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.03-19.11.08:297][600]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.10.03-19.11.08:447][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.11.08:460][612]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.10.03-19.11.08:472][613]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.10.03-19.11.08:591][622]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.03-19.11.08:605][623]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.10.03-19.11.08:708][631]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.10.03-19.11.08:708][631]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.10.03-19.11.08:736][633]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.10.03-19.11.08:802][638]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.10.03-19.11.08:833][640]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.03-19.11.08:964][650]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.10.03-19.11.08:964][650]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.10.03-19.11.09:150][663]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.10.03-19.11.09:211][667]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.10.03-19.11.09:339][676]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.10.03-19.11.09:561][692]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.03-19.11.09:663][699]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.10.03-19.11.09:663][699]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.10.03-19.11.09:759][707]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.03-19.11.09:780][708]MaterialEditorStats: Base pass shader without light map: 47 instructions
+[2019.10.03-19.11.09:780][708]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.10.03-19.11.09:780][708]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.11.11:577][879]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.11.11:592][879]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.11.11:592][879]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.10.03-19.11.11:592][879]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.11.11:592][879]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.03-19.11.11:592][879]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.10.03-19.11.11:599][879]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.03-19.11.11:729][889]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.11.11:770][892]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.10.03-19.11.11:770][892]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.10.03-19.11.11:880][901]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.03-19.11.11:907][903]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.10.03-19.11.11:981][909]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.10.03-19.11.11:995][910]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.10.03-19.11.12:034][913]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.10.03-19.11.12:098][918]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.10.03-19.11.12:111][919]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.03-19.11.12:227][929]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.10.03-19.11.12:240][930]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.10.03-19.11.12:493][949]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.10.03-19.11.12:493][949]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.10.03-19.11.12:608][958]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.10.03-19.11.12:832][970]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.03-19.11.12:928][975]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.10.03-19.11.12:965][977]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.10.03-19.11.13:003][979]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.03-19.11.13:665][980]MaterialEditorStats: Base pass shader without light map: 47 instructions
+[2019.10.03-19.11.13:666][980]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.10.03-19.11.13:666][980]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.11.25:250][234]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.03-19.11.35:810][691]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.11.35:823][691]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2019.10.03-19.11.35:827][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.11.35:827][691]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.10.03-19.11.35:827][691]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.11.35:827][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.03-19.11.36:113][716]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.11.36:174][720]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.10.03-19.11.36:200][722]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.10.03-19.11.36:260][727]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.03-19.11.36:358][734]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.10.03-19.11.36:358][734]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.10.03-19.11.36:407][738]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.10.03-19.11.36:472][743]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.03-19.11.36:484][744]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.10.03-19.11.36:536][748]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.03-19.11.36:610][754]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.10.03-19.11.36:676][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.10.03-19.11.36:857][772]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.10.03-19.11.36:894][773]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.10.03-19.11.37:037][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.03-19.11.37:254][801]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.10.03-19.11.37:295][804]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.03-19.11.37:363][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.03-19.11.37:381][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.03-19.11.37:382][811]MaterialEditorStats: Base pass shader without light map: 47 instructions
+[2019.10.03-19.11.37:382][811]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.10.03-19.11.37:382][811]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.11.47:896][606]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.11.47:916][607]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.11.47:916][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.10.03-19.11.47:916][607]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.11.47:916][607]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.03-19.11.48:067][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.10.03-19.11.48:123][624]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.10.03-19.11.48:123][624]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.10.03-19.11.48:159][627]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.03-19.11.48:263][635]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.10.03-19.11.48:289][637]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.03-19.11.48:369][643]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.10.03-19.11.48:369][643]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.03-19.11.48:394][645]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.03-19.11.48:477][651]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.10.03-19.11.48:490][652]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.03-19.11.48:646][664]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.10.03-19.11.48:757][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.03-19.11.48:822][677]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.03-19.11.49:010][690]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.03-19.11.49:286][711]MaterialEditorStats: Base pass shader without light map: 51 instructions
+[2019.10.03-19.11.49:286][711]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.10.03-19.11.49:286][711]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.03-19.11.53:728][174]LogMaterialEditor: Saving and Compiling material seethrough
+[2019.10.03-19.11.54:073][174]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.11.54:105][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.10.03-19.11.54:105][174]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.10.03-19.11.54:105][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.03-19.11.54:105][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.03-19.11.54:116][174]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.11.54:132][174]LogMaterial: Display: Missing cached shader map for material seethrough, compiling. 
+[2019.10.03-19.11.54:198][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.10.03-19.11.54:227][174]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.10.03-19.11.55:387][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.03-19.11.55:388][174]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.03-19.11.55:388][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.10.03-19.11.55:388][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.03-19.11.55:388][174]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.10.03-19.11.55:398][174]TextureStreamingBuild: Display: Compiling optional shaders took 1.200 seconds.
+[2019.10.03-19.11.55:451][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.10.03-19.11.56:340][174]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.10.03-19.11.56:340][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.10.03-19.11.56:340][174]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.10.03-19.11.56:340][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.03-19.11.56:377][174]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/seethrough0979AE074AA481C91A721AAD32577957.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/FirstPersonBP/Blueprints/seethrough.uasset'
+[2019.10.03-19.12.13:509][121]LogMaterialEditor: Saving and Compiling material seethrough
+[2019.10.03-19.12.13:533][121]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/seethroughFFF16D374B3B717AB8FB58949FE38B59.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/FirstPersonBP/Blueprints/seethrough.uasset'
+[2019.10.03-19.12.18:722][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.12.20:647][920]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.03-19.12.26:460][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.12.26:568][623]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.03-19.12.26:586][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.12.26:586][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.03-19.12.26:586][623]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 11:12:26 AM)
+[2019.10.03-19.12.26:587][623]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.12.26:603][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015957s)
+[2019.10.03-19.12.26:604][623]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.03-19.12.26:604][623]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2019.10.03-19.12.26:604][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017445s)
+[2019.10.03-19.12.26:646][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.03-19.12.26:669][623]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.03-19.12.26:678][623]LogInit: FAudioDevice initialized.
+[2019.10.03-19.12.26:686][623]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.03-19.12.26:688][623]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-15.12.26
+[2019.10.03-19.12.26:689][623]LogWorld: Bringing up level for play took: 0.001621
+[2019.10.03-19.12.26:689][623]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.10.03-19.12.26:690][623]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.03-19.12.26:691][623]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.019
+[2019.10.03-19.12.26:691][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.12.29:266][928]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.12.29:267][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.12.29:267][928]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.12.29:267][928]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-19.12.29:277][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.03-19.12.29:277][928]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.12.29:323][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.12.29:327][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.10.03-19.12.29:383][930]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.10.03-19.12.31:285][154]Cmd: EDCALLBACK SURFPROPS
+[2019.10.03-19.12.32:599][308]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2019.10.03-19.12.33:156][372]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush4)
+[2019.10.03-19.12.33:175][372]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.12.33:861][453]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2019.10.03-19.12.38:282][975]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.12.40:347][213]Cmd: SELECT NONE
+[2019.10.03-19.12.41:431][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.12.41:881][397]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.03-19.12.41:899][397]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.12.41:899][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.03-19.12.41:899][397]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 11:12:41 AM)
+[2019.10.03-19.12.41:900][397]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.12.41:915][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015616s)
+[2019.10.03-19.12.41:916][397]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.03-19.12.41:917][397]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2019.10.03-19.12.41:917][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017195s)
+[2019.10.03-19.12.41:958][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.10.03-19.12.41:980][397]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.03-19.12.41:989][397]LogInit: FAudioDevice initialized.
+[2019.10.03-19.12.41:995][397]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.03-19.12.41:996][397]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-15.12.41
+[2019.10.03-19.12.41:997][397]LogWorld: Bringing up level for play took: 0.001336
+[2019.10.03-19.12.41:997][397]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.10.03-19.12.41:998][397]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.03-19.12.41:999][397]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.71
+[2019.10.03-19.12.41:999][397]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.12.46:483][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.12.46:483][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.12.46:483][931]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.12.46:483][931]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-19.12.46:499][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.03-19.12.46:499][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.12.46:544][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.12.46:548][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.03-19.12.46:602][933]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.10.03-19.12.54:871][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.13.08:143][485]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.03-19.13.15:666][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.13.25:860][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.13.29:682][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.13.34:694][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.13.37:637][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.13.37:729][961]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.03-19.13.37:752][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.13.37:752][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.03-19.13.37:752][961]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 11:13:37 AM)
+[2019.10.03-19.13.37:753][961]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.13.37:769][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016173s)
+[2019.10.03-19.13.37:771][961]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.03-19.13.37:771][961]LogPlayLevel: PIE: World Init took: (0.001477s)
+[2019.10.03-19.13.37:771][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017821s)
+[2019.10.03-19.13.37:816][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.10.03-19.13.37:839][961]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.03-19.13.37:848][961]LogInit: FAudioDevice initialized.
+[2019.10.03-19.13.37:856][961]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.03-19.13.37:858][961]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-15.13.37
+[2019.10.03-19.13.37:858][961]LogWorld: Bringing up level for play took: 0.001418
+[2019.10.03-19.13.37:859][961]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.10.03-19.13.37:860][961]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.10.03-19.13.37:861][961]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.848
+[2019.10.03-19.13.37:867][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.13.42:765][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.13.42:766][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.13.42:766][544]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.13.42:766][544]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-19.13.42:779][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.03-19.13.42:779][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.13.42:824][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.13.42:828][544]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.10.03-19.13.42:886][546]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.10.03-19.13.44:702][760]Cmd: EDCALLBACK SURFPROPS
+[2019.10.03-19.13.47:061][ 39]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush10)
+[2019.10.03-19.13.47:084][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.13.47:759][119]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2019.10.03-19.14.03:353][978]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.14.08:867][622]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.14.11:883][972]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush6)
+[2019.10.03-19.14.29:653][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.14.46:944][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.15.08:233][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.15.16:901][622]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2019.10.03-19.15.29:546][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.15.29:642][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.10.03-19.15.29:922][135]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/FirstPersonExampleMap8729CDB048136EA5B2DE7E8992DC9780.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.03-19.15.30:662][135]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/FirstPersonExampleMap_BuiltDataD8947CEC41F64289784130A9823DC54C.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.03-19.15.35:300][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.15.36:349][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.10.03-19.15.37:353][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.10.03-19.15.37:950][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.03-19.15.38:099][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.10.03-19.15.38:256][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.10.03-19.15.38:397][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.10.03-19.15.38:549][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.03-19.15.38:674][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.03-19.15.39:850][902]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.03-19.15.40:478][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.15.40:594][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.10.03-19.15.41:069][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.03-19.15.41:214][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
