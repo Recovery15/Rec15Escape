@@ -2038,3 +2038,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.03-19.15.40:594][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
 [2019.10.03-19.15.41:069][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2019.10.03-19.15.41:214][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.10.03-19.16.39:976][269]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.03-19.16.56:586][229]Cmd: EDCALLBACK SURFPROPS
+[2019.10.03-19.17.03:121][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.17.05:546][302]Cmd: POLY SELECT MATCHING BRUSH
+[2019.10.03-19.17.09:725][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.17.22:329][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.17.25:004][609]Cmd: POLY SELECT MATCHING BRUSH
+[2019.10.03-19.17.30:347][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.03-19.17.35:625][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.17.35:728][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.10.03-19.17.37:055][864]LogSlate: Window 'Save Content' being destroyed
+[2019.10.03-19.17.37:064][864]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.17.37:106][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.10.03-19.17.37:352][864]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Saved/FirstPersonExampleMap6FB66C794D66816D2B653B947A94AA3E.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Rec15Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.03-19.17.37:376][864]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.307
