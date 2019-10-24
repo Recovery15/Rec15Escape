@@ -755,3 +755,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-17.52.58:131][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2019.10.24-17.52.58:315][244]LogSavePackage: Moving '../../../../../../Users/ngilston/Documents/Unreal Projects/Saved/FirstPersonExampleMap2F3DCFCD4EDCCA59220B7CB26547D906.tmp' to '../../../../../../Users/ngilston/Documents/Unreal Projects/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.10.24-17.52.58:340][244]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.232
+[2019.10.24-18.22.35:420][315]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.24-18.37.56:888][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.10.24-18.38.35:323][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.24-18.38.55:747][ 49]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2019.10.24-18.38.55:747][ 49]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="C:/Users/ngilston/Documents/Unreal Projects/Rec15Escape.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/ngilston/Documents/Unreal Projects/Rec15Escape.uproject" -cook -stage -archive -archivedirectory=N:/ -package -clientconfig=Development -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -utf8output
+[2019.10.24-18.38.55:910][ 65]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\ngilston\Documents\Unreal Projects\Rec15Escape.uproject
+[2019.10.24-18.38.56:275][107]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2019.10.24-18.38.56:283][108]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\ngilston\Documents\Unreal Projects\Rec15Escape.uproject
+[2019.10.24-18.38.56:283][108]UATHelper: Packaging (Windows (64-bit)): ERROR: Cook failed.
+[2019.10.24-18.38.56:283][108]UATHelper: Packaging (Windows (64-bit)):        (see C:\Users\ngilston\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\Log.txt for full exception trace)
+[2019.10.24-18.38.56:283][108]PackagingResults: Error: Cook failed.
+[2019.10.24-18.38.56:308][111]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2019.10.24-18.38.56:325][113]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2019.10.24-18.38.56:328][113]PackagingResults: Error: Unknown Cook Failure
+[2019.10.24-18.38.58:405][360]LogSlate: Took 0.006016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.10.24-18.39.00:525][608]LogSlate: Window 'Output Log' being destroyed
+[2019.10.24-18.39.00:529][608]LogSlate: Window 'Output Log' being destroyed
+[2019.10.24-18.39.05:038][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.10.24-18.39.10:755][146]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2019.10.24-18.39.10:854][158]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="C:/Users/ngilston/Documents/Unreal Projects/Rec15Escape.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/ngilston/Documents/Unreal Projects/Rec15Escape.uproject" -cook -stage -archive -archivedirectory="C:/Users/ngilston/Documents/Unreal Projects" -package -clientconfig=Development -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -utf8output
+[2019.10.24-18.39.11:120][190]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\ngilston\Documents\Unreal Projects\Rec15Escape.uproject
+[2019.10.24-18.39.11:449][229]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2019.10.24-18.39.11:457][230]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\ngilston\Documents\Unreal Projects\Rec15Escape.uproject
+[2019.10.24-18.39.11:461][230]UATHelper: Packaging (Windows (64-bit)): ERROR: Cook failed.
+[2019.10.24-18.39.11:461][230]UATHelper: Packaging (Windows (64-bit)):        (see C:\Users\ngilston\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\Log.txt for full exception trace)
+[2019.10.24-18.39.11:461][230]PackagingResults: Error: Cook failed.
+[2019.10.24-18.39.11:475][232]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2019.10.24-18.39.11:500][235]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2019.10.24-18.39.11:500][235]PackagingResults: Error: Unknown Cook Failure
+[2019.10.24-18.39.26:732][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.10.24-18.39.29:083][ 59]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2019.10.24-18.39.29:176][ 67]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="C:/Users/ngilston/Documents/Unreal Projects/Rec15Escape.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/ngilston/Documents/Unreal Projects/Rec15Escape.uproject" -cook -stage -archive -archivedirectory=C:/Users/ngilston/Desktop -package -clientconfig=Development -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -utf8output
+[2019.10.24-18.39.29:484][102]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\ngilston\Documents\Unreal Projects\Rec15Escape.uproject
+[2019.10.24-18.39.29:844][145]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2019.10.24-18.39.29:852][146]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\ngilston\Documents\Unreal Projects\Rec15Escape.uproject
+[2019.10.24-18.39.29:852][146]UATHelper: Packaging (Windows (64-bit)): ERROR: Cook failed.
+[2019.10.24-18.39.29:853][146]UATHelper: Packaging (Windows (64-bit)):        (see C:\Users\ngilston\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\Log.txt for full exception trace)
+[2019.10.24-18.39.29:853][146]PackagingResults: Error: Cook failed.
+[2019.10.24-18.39.29:861][147]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2019.10.24-18.39.29:886][150]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2019.10.24-18.39.29:890][150]PackagingResults: Error: Unknown Cook Failure
+[2019.10.24-18.40.13:120][329]LogSlate: Window 'Output Log' being destroyed
+[2019.10.24-18.40.13:124][329]LogSlate: Window 'Output Log' being destroyed
+[2019.10.24-18.40.20:376][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.24-18.40.24:956][198]UATHelper: Packaging (Windows (32-bit)): Running AutomationTool...
+[2019.10.24-18.40.25:055][206]UATHelper: Packaging (Windows (32-bit)): Parsing command line: -ScriptsForProject="C:/Users/ngilston/Documents/Unreal Projects/Rec15Escape.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/ngilston/Documents/Unreal Projects/Rec15Escape.uproject" -cook -stage -archive -archivedirectory=C:/Users/ngilston/Desktop -package -clientconfig=Development -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win32 -utf8output
+[2019.10.24-18.40.25:312][236]UATHelper: Packaging (Windows (32-bit)): Setting up ProjectParams for C:\Users\ngilston\Documents\Unreal Projects\Rec15Escape.uproject
+[2019.10.24-18.40.25:671][279]UATHelper: Packaging (Windows (32-bit)): ********** COOK COMMAND STARTED **********
+[2019.10.24-18.40.25:680][280]UATHelper: Packaging (Windows (32-bit)): Running UE4Editor Cook for project C:\Users\ngilston\Documents\Unreal Projects\Rec15Escape.uproject
+[2019.10.24-18.40.25:680][280]UATHelper: Packaging (Windows (32-bit)): ERROR: Cook failed.
+[2019.10.24-18.40.25:680][280]UATHelper: Packaging (Windows (32-bit)):        (see C:\Users\ngilston\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\Log.txt for full exception trace)
+[2019.10.24-18.40.25:680][280]PackagingResults: Error: Cook failed.
+[2019.10.24-18.40.25:697][282]UATHelper: Packaging (Windows (32-bit)): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2019.10.24-18.40.25:715][284]UATHelper: Packaging (Windows (32-bit)): BUILD FAILED
+[2019.10.24-18.40.25:717][284]PackagingResults: Error: Unknown Cook Failure
+[2019.10.24-18.40.41:179][131]LogSlate: Window 'Output Log' being destroyed
+[2019.10.24-18.40.41:184][131]LogSlate: Window 'Output Log' being destroyed
+[2019.10.24-18.40.45:281][621]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.24-18.40.48:424][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.24-18.41.03:874][  4]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2019.10.24-18.41.03:969][ 14]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="C:/Users/ngilston/Documents/Unreal Projects/Rec15Escape.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/ngilston/Documents/Unreal Projects/Rec15Escape.uproject" -cook -stage -archive -archivedirectory="C:/Users/ngilston/Documents/Unreal Projects" -package -clientconfig=Development -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -utf8output
+[2019.10.24-18.41.04:239][ 46]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\ngilston\Documents\Unreal Projects\Rec15Escape.uproject
+[2019.10.24-18.41.04:590][ 88]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2019.10.24-18.41.04:598][ 89]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\ngilston\Documents\Unreal Projects\Rec15Escape.uproject
+[2019.10.24-18.41.04:598][ 89]UATHelper: Packaging (Windows (64-bit)): ERROR: Cook failed.
+[2019.10.24-18.41.04:598][ 89]UATHelper: Packaging (Windows (64-bit)):        (see C:\Users\ngilston\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\Log.txt for full exception trace)
+[2019.10.24-18.41.04:601][ 89]PackagingResults: Error: Cook failed.
+[2019.10.24-18.41.04:614][ 91]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2019.10.24-18.41.04:640][ 94]UATHelper: Packaging (Windows (64-bit)): BUILD FAILED
+[2019.10.24-18.41.04:640][ 94]PackagingResults: Error: Unknown Cook Failure
